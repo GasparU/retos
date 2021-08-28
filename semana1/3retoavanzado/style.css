@@ -1,0 +1,29 @@
+img {
+    width: 200px;
+}
+.nav {
+    display:flex 
+}
+
+.div {
+    display: flex;
+}
+.footer {
+    display: flex;
+}
+
+header {
+    background-color: rgb(243, 146, 90);
+}
+article {
+    background-color: pink;
+}
+aside {
+    background-color: rgb(85, 199, 85);
+}
+footer {
+    background-color: rgb(37, 134, 224);
+}
+span { 
+    background-color: rgb(37, 134, 224);
+}
