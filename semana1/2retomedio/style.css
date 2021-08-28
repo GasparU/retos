@@ -1,0 +1,42 @@
+#flex {
+    display: flex;
+    flex-grow: 3;
+    
+}
+
+header {
+    background-color: rgb(102, 221, 236);
+    height: 100px;
+    padding: 5px;
+}
+.nav {
+    background-color: rgb(236, 236, 94);
+    width: 500px;
+    padding: 5px;
+    height: 500px;
+}
+.article{
+    background-color: rgb(108, 211, 108);
+    width: 500px;
+    padding: 5px;
+    height: 500px;
+}
+.aside {
+    background-color: rgb(250, 206, 125);
+    width: 500px;
+    padding: 5px;
+    height: 500px;
+}
+.footer{
+    background-color: rgb(102, 221, 236);
+    height: 100px;
+    padding: 5px;
+}
+.section {
+    background-color: rgb(235, 129, 146);
+    padding: 5px;
+}
+.section2 {
+    background-color: orangered;
+    padding: 5px;
+}
