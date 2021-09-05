@@ -1,0 +1,71 @@
+
+
+img {
+    width: 1500px;
+    height: 740px;
+}
+
+.contenedor {
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+.nav {
+    position: absolute;
+    transform: translate(250%);
+    display: flex;  
+    color: white;  
+}
+.logo {
+    position: absolute;
+    font-size: 50px;
+    color: white;
+}
+p { 
+    padding: 25px;
+}
+.contact {
+    background-color: white;
+    color: black;
+    border-radius: 25px;
+    height: 10px;
+}
+.subtitle {
+    position: absolute;
+    padding-top: 300px;
+    padding-left: 35%;
+    font-size: 40px;
+    color: white;
+}
+.container {
+    position: relative;
+    display: flex;
+    text-align: center;
+}
+.huevo {
+    width: 47.2rem;
+
+}
+h2 {
+    padding-top: 200px;
+}
+.parrafo { 
+    padding-right: 140px;
+    padding-left: 140px;
+}
+.copa   {
+    position: relative;
+    display: flex;
+    text-align: center;
+}
+.copita {
+    width: 47.2rem;
+}
+h3 {
+    padding-top: 200px;
+    padding-left: 50px;
+}
+.parrafo2 {
+    padding-right: 140px;
+    padding-left: 180px;
+}
