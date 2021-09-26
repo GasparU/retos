@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    position: relative;
+    height: 100vh;
+    position: relative;
+}
+.boton{
+    display: flex;
+    position: absolute;
+    align-content: center;
+    justify-content: center;
+    margin: 20vh;
+    /* margin: auto; */
+    font-size: 40px;
+    height: 400px;
+    align-items: center;
+    width: 300px;
+    background-color: rgba(144, 216, 250, 0.4);
+    border: 0;
+    border-radius: 15px;
+}
+.boton:hover{
+    background-color: rgb(230,230,230,.4);
+    backdrop-filter: blur(5px);
+        
+}
